@@ -1,0 +1,3 @@
+C:/Users/robyn/.vscode/Quantum/build-vs/CMakeFiles/app.dir
+C:/Users/robyn/.vscode/Quantum/build-vs/CMakeFiles/ALL_BUILD.dir
+C:/Users/robyn/.vscode/Quantum/build-vs/CMakeFiles/ZERO_CHECK.dir
